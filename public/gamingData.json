@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "title": "PlayerUnknown's Battlegrounds (PUBG)",
-    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
+    "title": " Mobile PUBG",
+    "coverPhoto": "https://i.ibb.co.com/tPMR5X0J/1.jpg",
     "category": "Battle Royale",
     "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
     "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "title": "Valorant",
-    "coverPhoto": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/0p4VTt3P/2.jpg",
     "category": "FPS",
     "downloadLink": "https://playvalorant.com/",
     "description": "A 5v5 character-based tactical shooter where precise gunplay meets unique agent abilities.",
@@ -22,7 +22,7 @@
   {
     "id": "3",
     "title": "Grand Theft Auto V",
-    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/XfzXqbJV/3.jpg",
     "category": "Action-Adventure",
     "downloadLink": "https://www.rockstargames.com/gta-v",
     "description": "An open-world action-adventure game following three criminals committed to daring heists in Los Santos.",
@@ -32,7 +32,7 @@
   {
     "id": "4",
     "title": "Cyberpunk 2077",
-    "coverPhoto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/53rrzwW/4.jpg",
     "category": "RPG",
     "downloadLink": "https://www.cyberpunk.net/",
     "description": "An open-world, action-adventure RPG set in the megalopolis of Night City, obsessed with power and glamour.",
@@ -42,7 +42,7 @@
   {
     "id": "5",
     "title": "Minecraft",
-    "coverPhoto": "https://images.unsplash.com/photo-1605899435973-ca2d1a8861cf?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/gLTk8H7T/5.jpg",
     "category": "Sandbox",
     "downloadLink": "https://www.minecraft.net/",
     "description": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
@@ -52,7 +52,7 @@
   {
     "id": "6",
     "title": "Apex Legends",
-    "coverPhoto": "https://images.unsplash.com/photo-1553481187-be93c21490a9?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/RppsMb0X/6.jpg",
     "category": "Battle Royale",
     "downloadLink": "https://www.ea.com/games/apex-legends",
     "description": "A free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune.",
@@ -62,7 +62,7 @@
   {
     "id": "7",
     "title": "The Witcher 3: Wild Hunt",
-    "coverPhoto": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/RppsMb0X/6.jpg",
     "category": "RPG",
     "downloadLink": "https://www.thewitcher.com/en/witcher3",
     "description": "A story-driven open-world RPG set in a visually stunning dark fantasy universe as monster slayer Geralt.",
@@ -72,7 +72,7 @@
   {
     "id": "8",
     "title": "Counter-Strike 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1548483762-052445d4f347?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/5XGX8Xy0/8.jpg",
     "category": "FPS",
     "downloadLink": "https://www.counter-strike.net/cs2",
     "description": "The next chapter of the highly tactical, team-based objective game that defined competitive gaming.",
@@ -82,7 +82,7 @@
   {
     "id": "9",
     "title": "Elden Ring",
-    "coverPhoto": "https://images.unsplash.com/photo-1612287230202-1bf1d85d1bdf?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/5gGDzP0Q/9.jpg",
     "category": "RPG",
     "downloadLink": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
     "description": "A massive dark fantasy action-RPG set within a world created by Hidetaka Miyazaki and George R.R. Martin.",
@@ -92,7 +92,7 @@
   {
     "id": "10",
     "title": "Call of Duty: Warzone",
-    "coverPhoto": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Z1vLsZxm/10.jpg",
     "category": "Battle Royale",
     "downloadLink": "https://www.callofduty.com/warzone",
     "description": "A massive, free-to-play combat arena featuring crossplay, customization, and intense tactical gameplay.",
@@ -102,7 +102,7 @@
   {
     "id": "11",
     "title": "Red Dead Redemption 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/dsqfyJ3v/11.jpg",
     "category": "Action-Adventure",
     "downloadLink": "https://www.rockstargames.com/reddeadredemption2",
     "description": "An epic tale of life in America at the dawn of the modern age following outlaw Arthur Morgan.",
@@ -112,7 +112,7 @@
   {
     "id": "12",
     "title": "Dota 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/V0TtPsP7/12.jpg",
     "category": "MOBA",
     "downloadLink": "https://www.dota2.com/home",
     "description": "A highly complex, deep real-time strategy arena where two teams of five fight to destroy the enemy's Ancient.",
@@ -122,7 +122,7 @@
   {
     "id": "13",
     "title": "League of Legends",
-    "coverPhoto": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/T6mL1Qq/13.jpg",
     "category": "MOBA",
     "downloadLink": "https://www.leagueoflegends.com/",
     "description": "A team-based strategy game where two teams of five powerful champions face off to destroy each other's base.",
@@ -132,7 +132,7 @@
   {
     "id": "14",
     "title": "Fortnite",
-    "coverPhoto": "https://images.unsplash.com/photo-1589241062272-c0a000072dfa?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/tpBmyqrL/14.jpg",
     "category": "Battle Royale",
     "downloadLink": "https://www.fortnite.com/",
     "description": "Create, play, and battle with friends for free in a massively expanding building-based combat arena.",
@@ -142,7 +142,7 @@
   {
     "id": "15",
     "title": "Rocket League",
-    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/pjNw6P2S/15.jpg",
     "category": "Sports",
     "downloadLink": "https://www.rocketleague.com/",
     "description": "A high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls.",
@@ -152,7 +152,7 @@
   {
     "id": "16",
     "title": "Hades",
-    "coverPhoto": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/6Rk1vqJ1/16.jpg",
     "category": "Roguelike",
     "downloadLink": "https://www.supergiantgames.com/games/hades/",
     "description": "Defy the god of the dead as you hack and slash your way out of the Underworld in this rogue-like dungeon crawler.",
@@ -162,7 +162,7 @@
   {
     "id": "17",
     "title": "God of War Ragnarök",
-    "coverPhoto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/2YpgKSjc/17.jpg",
     "category": "Action-Adventure",
     "downloadLink": "https://www.playstation.com/games/god-of-war-ragnarok/",
     "description": "Join Kratos and Atreus on a mythic journey for answers before the prophesied battle that will end the world.",
@@ -172,7 +172,7 @@
   {
     "id": "18",
     "title": "Genshin Impact",
-    "coverPhoto": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/DDwt0MJp/18.jpg",
     "category": "RPG",
     "downloadLink": "https://genshin.hoyoverse.com/",
     "description": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy, to find your lost sibling.",
@@ -182,7 +182,7 @@
   {
     "id": "19",
     "title": "Forza Horizon 5",
-    "coverPhoto": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/HSQnhzN/19.jpg",
     "category": "Racing",
     "downloadLink": "https://www.xbox.com/games/forza-horizon-5",
     "description": "Explore the vibrant, ever-evolving open world landscapes of Mexico with limitless, fun driving action.",
@@ -192,7 +192,7 @@
   {
     "id": "20",
     "title": "Stardew Valley",
-    "coverPhoto": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Nd41FZcy/20.jpg",
     "category": "Simulation",
     "downloadLink": "https://www.stardewvalley.net/",
     "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Can you learn to live off the land?",
@@ -202,7 +202,7 @@
   {
     "id": "21",
     "title": "Tom Clancy's Rainbow Six Siege",
-    "coverPhoto": "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Nzszfsm/21.jpg",
     "category": "FPS",
     "downloadLink": "https://www.ubisoft.com/game/rainbow-six/siege",
     "description": "Master the art of destruction and gadgetry in intense close-quarters combat, high lethality tactical team play.",
@@ -212,7 +212,7 @@
   {
     "id": "22",
     "title": "Assassin's Creed Valhalla",
-    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/99n5T5vR/22.png",
     "category": "Action-Adventure",
     "downloadLink": "https://www.ubisoft.com/game/assassins-creed/valhalla",
     "description": "Become Eivor, a legendary Viking warrior raised on tales of battle and glory, exploring Dark Age England.",
@@ -222,7 +222,7 @@
   {
     "id": "23",
     "title": "Among Us",
-    "coverPhoto": "https://images.unsplash.com/photo-1612287230202-1bf1d85d1bdf?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/4RPxP9Xh/23.jpg",
     "category": "Party",
     "downloadLink": "https://innersloth.com/games/among-us/",
     "description": "An online and local party game of teamwork and betrayal for 4-15 players set in space or atmospheric bases.",
@@ -232,7 +232,7 @@
   {
     "id": "24",
     "title": "Hollow Knight",
-    "coverPhoto": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/pNpvGBy/24.jpg",
     "category": "Metroidvania",
     "downloadLink": "https://www.hollowknight.com/",
     "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes.",
@@ -242,7 +242,7 @@
   {
     "id": "25",
     "title": "Terraria",
-    "coverPhoto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/0yYYBxRv/25.jpg",
     "category": "Sandbox",
     "downloadLink": "https://terraria.org/",
     "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed sandbox adventure game.",
@@ -252,7 +252,7 @@
   {
     "id": "26",
     "title": "Destiny 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/FkRG2Fhb/26.jpg",
     "category": "FPS",
     "downloadLink": "https://www.bungie.net/7/en/Destiny",
     "description": "Dive into the world of Destiny 2 to explore the mysteries of the solar system and experience responsive FPS combat.",
@@ -262,7 +262,7 @@
   {
     "id": "27",
     "title": "Overwatch 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/cKrVYxHL/27.jpg",
     "category": "FPS",
     "downloadLink": "https://overwatch.blizzard.com/",
     "description": "An optimistic team-based action game set in the optimistic future, featuring a constantly evolving roster.",
@@ -272,7 +272,7 @@
   {
     "id": "28",
     "title": "Rust",
-    "coverPhoto": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Xkpvqmr6/28.jpg",
     "category": "Survival",
     "downloadLink": "https://rust.facepunch.com/",
     "description": "The only aim in Rust is to survive. Overcome struggles such as hunger, thirst and cold, while trying to manage other players.",
@@ -282,7 +282,7 @@
   {
     "id": "29",
     "title": "The Last of Us Part I",
-    "coverPhoto": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/wNk02zLZ/29.jpg",
     "category": "Action-Adventure",
     "downloadLink": "https://www.playstation.com/games/the-last-of-us-part-i/",
     "description": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel is hired to smuggle Ellie.",
@@ -292,7 +292,7 @@
   {
     "id": "30",
     "title": "Horizon Zero Dawn",
-    "coverPhoto": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/fzFMPzWn/30.jpg",
     "category": "Action-Adventure",
     "downloadLink": "https://www.playstation.com/games/horizon-zero-dawn/",
     "description": "Experience Aloy's legendary quest to unravel the mysteries of a future Earth ruled by deadly Machines.",
@@ -302,7 +302,7 @@
   {
     "id": "31",
     "title": "Monster Hunter: World",
-    "coverPhoto": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/7JxkwKMy/31.jpg",
     "category": "RPG",
     "downloadLink": "https://www.monsterhunter.com/world/",
     "description": "Battle gigantic monsters in epic landscapes using resources to craft weapons to hunt even bigger beasts.",
@@ -312,7 +312,7 @@
   {
     "id": "32",
     "title": "Fall Guys",
-    "coverPhoto": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/qYChDCLG/32.jpg",
     "category": "Party",
     "downloadLink": "https://www.fallguys.com/",
     "description": "A free, cross-platform massively multiplayer party royale game where you compete in clumsy obstacle courses.",
@@ -322,7 +322,7 @@
   {
     "id": "33",
     "title": "Sea of Thieves",
-    "coverPhoto": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/HD1tVRgc/33.jpg",
     "category": "Adventure",
     "downloadLink": "https://www.seaofthieves.com/",
     "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting.",
@@ -332,7 +332,7 @@
   {
     "id": "34",
     "title": "Dead by Daylight",
-    "coverPhoto": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/vCb7y6yM/34.jpg",
     "category": "Horror",
     "downloadLink": "https://deadbydaylight.com/",
     "description": "A multiplayer 4v1 horror game where one player takes on the role of the brutal Killer, and the other four are Survivors.",
@@ -342,7 +342,7 @@
   {
     "id": "35",
     "title": "Phasmophobia",
-    "coverPhoto": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/bMXZy7J7/35.jpg",
     "category": "Horror",
     "downloadLink": "https://www.kineticgames.co.uk/",
     "description": "A 4-player online co-op psychological horror where you and your team investigate paranormal activities.",
@@ -352,7 +352,7 @@
   {
     "id": "36",
     "title": "Sekiro: Shadows Die Twice",
-    "coverPhoto": "https://images.unsplash.com/photo-1612287230202-1bf1d85d1bdf?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/zHD71zks/36.jpg",
     "category": "Action",
     "downloadLink": "https://www.sekirothegame.com/",
     "description": "Carve your own clever path to vengeance in an award-winning adventure from developer FromSoftware.",
@@ -362,7 +362,7 @@
   {
     "id": "37",
     "title": "Subnautica",
-    "coverPhoto": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/fT4gWFC/37.jpg",
     "category": "Survival",
     "downloadLink": "https://unknownworlds.com/subnautica/",
     "description": "Descend into the depths of an alien underwater world filled with wonder and extreme perils.",
@@ -372,7 +372,7 @@
   {
     "id": "38",
     "title": "It Takes Two",
-    "coverPhoto": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/GfHkC1X6/38.jpg",
     "category": "Co-op Adventure",
     "downloadLink": "https://www.ea.com/games/it-takes-two",
     "description": "Embark on the craziest journey of your life in It Takes Two, a genre-bending platform adventure built purely for co-op.",
@@ -382,7 +382,7 @@
   {
     "id": "39",
     "title": "Sid Meier's Civilization VI",
-    "coverPhoto": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Z1bn7y4s/39.jpg",
     "category": "Strategy",
     "downloadLink": "https://civilization.com/",
     "description": "A turn-based strategy 4X game where you attempt to build an empire to stand the test of time.",
@@ -392,7 +392,7 @@
   {
     "id": "40",
     "title": "Hearts of Iron IV",
-    "coverPhoto": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/q3J9NKds/40.jpg",
     "category": "Strategy",
     "downloadLink": "https://www.paradoxinteractive.com/games/hearts-of-iron-iv",
     "description": "Take command of any nation in World War II, the most engaging conflict in world history.",
@@ -402,7 +402,7 @@
   {
     "id": "41",
     "title": "Euro Truck Simulator 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/DfZFHrQY/41.jpg",
     "category": "Simulation",
     "downloadLink": "https://eurotrucksimulator2.com/",
     "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances.",
@@ -412,7 +412,7 @@
   {
     "id": "42",
     "title": "Cities: Skylines",
-    "coverPhoto": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/tTC2gvCX/42.jpg",
     "category": "Simulation",
     "downloadLink": "https://www.paradoxinteractive.com/games/cities-skylines",
     "description": "A modern take on the classic city simulation, introducing new gameplay elements to realize the thrill of maintaining a real city.",
@@ -422,7 +422,7 @@
   {
     "id": "43",
     "title": "Valheim",
-    "coverPhoto": "https://images.unsplash.com/photo-1519074069444-1ba4e666440e?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/Wpjx4xrB/43.jpg",
     "category": "Survival",
     "downloadLink": "https://www.valheimgame.com/",
     "description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by Viking culture.",
@@ -432,7 +432,7 @@
   {
     "id": "44",
     "title": "Starfield",
-    "coverPhoto": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/0jpXnvwt/44.jpg",
     "category": "RPG",
     "downloadLink": "https://bethesda.net/en/game/starfield",
     "description": "The first new universe in over 25 years from Bethesda Game Studios, create any character and explore space with unparalleled freedom.",
@@ -442,7 +442,7 @@
   {
     "id": "45",
     "title": "Baldur's Gate 3",
-    "coverPhoto": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/v4T7KRmx/45.jpg",
     "category": "RPG",
     "downloadLink": "https://baldursgate3.game/",
     "description": "Gather your party and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival.",
@@ -452,7 +452,7 @@
   {
     "id": "46",
     "title": "Payday 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/d0YbKcZx/46.jpg",
     "category": "Action",
     "downloadLink": "https://www.paydaythegame.com/",
     "description": "An action-packed, four-player co-op shooter that once again lets players don the masks of the original Payday crew.",
@@ -462,7 +462,7 @@
   {
     "id": "47",
     "title": "The Forest",
-    "coverPhoto": "https://images.unsplash.com/photo-1511497584788-876760111969?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/7tcFm49T/47.jpg",
     "category": "Horror",
     "downloadLink": "https://endnightgames.com/",
     "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling a society of cannibalistic mutants.",
@@ -472,7 +472,7 @@
   {
     "id": "48",
     "title": "Left 4 Dead 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/T9pfRrH/48.jpg",
     "category": "FPS",
     "downloadLink": "https://www.l4d.com/",
     "description": "Set in the zombie apocalypse, Left 4 Dead 2 is the highly anticipated sequel to the award-winning co-op shooter.",
@@ -482,7 +482,7 @@
   {
     "id": "49",
     "title": "Terraria",
-    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/PGf3cPTn/49.jpg",
     "category": "Sandbox",
     "downloadLink": "https://terraria.org/",
     "description": "The very ground you dig is yours to shape. Action-packed sandbox world with adventure and combat.",
@@ -492,511 +492,11 @@
   {
     "id": "50",
     "title": "Garry's Mod",
-    "coverPhoto": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop",
+    "coverPhoto": "https://i.ibb.co.com/SwR1tFj2/50.jpg",
     "category": "Sandbox",
     "downloadLink": "https://gmod.facepunch.com/",
     "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
     "ratings": "4.7",
     "developer": "Facepunch Studios"
-  },
-  {
-    "id": "51",
-    "title": "Warframe",
-    "coverPhoto": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop",
-    "category": "Action RPG",
-    "downloadLink": "https://www.warframe.com/",
-    "description": "Confront warring factions across a sprawling interplanetary system in this free-to-play third-person action combat title.",
-    "ratings": "4.5",
-    "developer": "Digital Extremes"
-  },
-  {
-    "id": "52",
-    "title": "Team Fortress 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?q=80&w=600&auto=format&fit=crop",
-    "category": "FPS",
-    "downloadLink": "https://www.teamfortress.com/",
-    "description": "One of the most popular online action games of all time, TF2 delivers constant free updates—new game modes, maps, and equipment.",
-    "ratings": "4.4",
-    "developer": "Valve"
-  },
-  {
-    "id": "53",
-    "title": "Ark: Survival Evolved",
-    "coverPhoto": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=600&auto=format&fit=crop",
-    "category": "Survival",
-    "downloadLink": "https://playark.com/",
-    "description": "Stranded on the shores of a mysterious island, you must learn to survive, hunt, harvest resources, craft items, and tame dinosaurs.",
-    "ratings": "4.1",
-    "developer": "Studio Wildcard"
-  },
-  {
-    "id": "54",
-    "title": "Borderlands 3",
-    "coverPhoto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop",
-    "category": "Loot Shooter",
-    "downloadLink": "https://borderlands.2k.com/",
-    "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure!",
-    "ratings": "4.4",
-    "developer": "Gearbox Software"
-  },
-  {
-    "id": "55",
-    "title": "The Sims 4",
-    "coverPhoto": "https://images.unsplash.com/photo-1513258496099-48168024addd?q=80&w=600&auto=format&fit=crop",
-    "category": "Simulation",
-    "downloadLink": "https://www.ea.com/games/the-sims/the-sims-4",
-    "description": "Unleash your imagination and create a unique world of Sims that's an expression of you! Explore and customize every detail.",
-    "ratings": "4.0",
-    "developer": "Maxis"
-  },
-  {
-    "id": "56",
-    "title": "Fallout 4",
-    "coverPhoto": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG",
-    "downloadLink": "https://fallout.bethesda.net/en/games/fallout-4",
-    "description": "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival.",
-    "ratings": "4.3",
-    "developer": "Bethesda Game Studios"
-  },
-  {
-    "id": "57",
-    "title": "Skyrim",
-    "coverPhoto": "https://images.unsplash.com/photo-1519074069444-1ba4e666440e?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG",
-    "downloadLink": "https://elderscrolls.bethesda.net/en/skyrim",
-    "description": "The next chapter in the highly anticipated Elder Scrolls saga reimagines and revolutionizes the open-world fantasy epic.",
-    "ratings": "4.8",
-    "developer": "Bethesda Game Studios"
-  },
-  {
-    "id": "58",
-    "title": "Doom Eternal",
-    "coverPhoto": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?q=80&w=600&auto=format&fit=crop",
-    "category": "FPS",
-    "downloadLink": "https://bethesda.net/en/game/doom",
-    "description": "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions.",
-    "ratings": "4.7",
-    "developer": "id Software"
-  },
-  {
-    "id": "59",
-    "title": "FIFA 23",
-    "coverPhoto": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=600&auto=format&fit=crop",
-    "category": "Sports",
-    "downloadLink": "https://www.ea.com/games/ea-sports-fc",
-    "description": "Experience the beautiful game with hyper-realistic animations, tactical depth, and all your favorite football teams.",
-    "ratings": "4.2",
-    "developer": "EA Vancouver"
-  },
-  {
-    "id": "60",
-    "title": "NBA 2K23",
-    "coverPhoto": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=600&auto=format&fit=crop",
-    "category": "Sports",
-    "downloadLink": "https://nba.2k.com/2k23/",
-    "description": "Rise to the occasion and realize your full potential in NBA 2K23. Prove yourself against the best players in the world.",
-    "ratings": "3.9",
-    "developer": "Visual Concepts"
-  },
-  {
-    "id": "61",
-    "title": "Dead Cells",
-    "coverPhoto": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=600&auto=format&fit=crop",
-    "category": "Roguelike",
-    "downloadLink": "https://dead-cells.com/",
-    "description": "Dead Cells is a rogue-lite, metroidvania action-platformer. You'll explore a sprawling, ever-changing castle.",
-    "ratings": "4.7",
-    "developer": "Motion Twin"
-  },
-  {
-    "id": "62",
-    "title": "Slay the Spire",
-    "coverPhoto": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop",
-    "category": "Card Battler",
-    "downloadLink": "https://www.megacrit.com/",
-    "description": "We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck.",
-    "ratings": "4.8",
-    "developer": "Mega Crit Games"
-  },
-  {
-    "id": "63",
-    "title": "Outer Wilds",
-    "coverPhoto": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
-    "category": "Adventure",
-    "downloadLink": "https://www.mobiusdigitalgames.com/outer-wilds.html",
-    "description": "An open world mystery about a solar system trapped in an endless time loop. Explore deep space secrets.",
-    "ratings": "4.9",
-    "developer": "Mobius Digital"
-  },
-  {
-    "id": "64",
-    "title": "Subnautica: Below Zero",
-    "coverPhoto": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=600&auto=format&fit=crop",
-    "category": "Survival",
-    "downloadLink": "https://unknownworlds.com/subnautica/",
-    "description": "Dive into a freezing underwater adventure on an alien planet. Below Zero is set two years after the original Subnautica.",
-    "ratings": "4.5",
-    "developer": "Unknown Worlds"
-  },
-  {
-    "id": "65",
-    "title": "Raft",
-    "coverPhoto": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
-    "category": "Survival",
-    "downloadLink": "https://www.raft-game.com/",
-    "description": "By yourself or with friends, your mission is to survive an epic oceanic adventure across a perilous sea!",
-    "ratings": "4.4",
-    "developer": "Redbeet Interactive"
-  },
-  {
-    "id": "66",
-    "title": "Satisfactory",
-    "coverPhoto": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?q=80&w=600&auto=format&fit=crop",
-    "category": "Simulation",
-    "downloadLink": "https://www.satisfactorygame.com/",
-    "description": "A first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends.",
-    "ratings": "4.8",
-    "developer": "Coffee Stain Studios"
-  },
-  {
-    "id": "67",
-    "title": "Factorio",
-    "coverPhoto": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=600&auto=format&fit=crop",
-    "category": "Simulation",
-    "downloadLink": "https://www.factorio.com/",
-    "description": "A game about building and creating automated factories to produce items of increasing complexity.",
-    "ratings": "4.9",
-    "developer": "Wube Software"
-  },
-  {
-    "id": "68",
-    "title": "RimWorld",
-    "coverPhoto": "https://images.unsplash.com/photo-1519074069444-1ba4e666440e?q=80&w=600&auto=format&fit=crop",
-    "category": "Simulation",
-    "downloadLink": "https://rimworldgame.com/",
-    "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, and combat.",
-    "ratings": "4.8",
-    "developer": "Ludeon Studios"
-  },
-  {
-    "id": "69",
-    "title": "Project Zomboid",
-    "coverPhoto": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?q=80&w=600&auto=format&fit=crop",
-    "category": "Survival",
-    "downloadLink": "https://projectzomboid.com/",
-    "description": "The ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive.",
-    "ratings": "4.6",
-    "developer": "The Indie Stone"
-  },
-  {
-    "id": "70",
-    "title": "Deep Rock Galactic",
-    "coverPhoto": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=600&auto=format&fit=crop",
-    "category": "FPS",
-    "downloadLink": "https://www.deeprockgalactic.com/",
-    "description": "A 1-4 player co-op FPS featuring badass space Dwarves, 100% destructible environments, and endless hordes of alien monsters.",
-    "ratings": "4.8",
-    "developer": "Ghost Ship Games"
-  },
-  {
-    "id": "71",
-    "title": "Insurgency: Sandstorm",
-    "coverPhoto": "https://images.unsplash.com/photo-1548483762-052445d4f347?q=80&w=600&auto=format&fit=crop",
-    "category": "FPS",
-    "downloadLink": "https://www.sandstorm.game/",
-    "description": "A team-based, tactical FPS based on lethal close-quarters combat and objective-oriented multiplayer gameplay.",
-    "ratings": "4.4",
-    "developer": "New World Interactive"
-  },
-  {
-    "id": "72",
-    "title": "Squad",
-    "coverPhoto": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=600&auto=format&fit=crop",
-    "category": "Tactical Shooter",
-    "downloadLink": "https://joinsquad.com/",
-    "description": "A large-scale combined arms multiplayer tactical shooter emphasizing combat realism through communication and teamplay.",
-    "ratings": "4.5",
-    "developer": "Offworld Industries"
-  },
-  {
-    "id": "73",
-    "title": "Arma 3",
-    "coverPhoto": "https://images.unsplash.com/photo-1547483238-f400e65ccd56?q=80&w=600&auto=format&fit=crop",
-    "category": "Tactical Shooter",
-    "downloadLink": "https://arma3.com/",
-    "description": "Experience true combat gameplay in a massive military sandbox. Deploying a wide variety of single and multiplayer content.",
-    "ratings": "4.5",
-    "developer": "Bohemia Interactive"
-  },
-  {
-    "id": "74",
-    "title": "DayZ",
-    "coverPhoto": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=600&auto=format&fit=crop",
-    "category": "Survival",
-    "downloadLink": "https://dayz.com/",
-    "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected population, where you compete for resources.",
-    "ratings": "4.0",
-    "developer": "Bohemia Interactive"
-  },
-  {
-    "id": "75",
-    "title": "Escape from Tarkov",
-    "coverPhoto": "https://images.unsplash.com/photo-1553481187-be93c21490a9?q=80&w=600&auto=format&fit=crop",
-    "category": "Tactical Shooter",
-    "downloadLink": "https://www.escapefromtarkov.com/",
-    "description": "A hardcore and realistic online first-person action RPG/Simulator with MMO features and a story-driven walkthrough.",
-    "ratings": "4.6",
-    "developer": "Battlestate Games"
-  },
-  {
-    "id": "76",
-    "title": "Hunt: Showdown",
-    "coverPhoto": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
-    "category": "Tactical Shooter",
-    "downloadLink": "https://www.huntshowdown.com/",
-    "description": "A high-stakes, tactical PvPve first-person shooter. Kill nightmarish monsters, while competing for bounties.",
-    "ratings": "4.4",
-    "developer": "Crytek"
-  },
-  {
-    "id": "77",
-    "title": "For Honor",
-    "coverPhoto": "https://images.unsplash.com/photo-1519074069444-1ba4e666440e?q=80&w=600&auto=format&fit=crop",
-    "category": "Action",
-    "downloadLink": "https://www.ubisoft.com/game/for-honor",
-    "description": "Carve a path of destruction through an intense, believable battlefield in For Honor, a ground-breaking melee combat game.",
-    "ratings": "4.0",
-    "developer": "Ubisoft"
-  },
-  {
-    "id": "78",
-    "title": "Mordhau",
-    "coverPhoto": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?q=80&w=600&auto=format&fit=crop",
-    "category": "Action",
-    "downloadLink": "https://mordhau.com/",
-    "description": "A medieval multiplayer slasher. Create your mercenary and fight in brutal battles where you will experience fast paced combat.",
-    "ratings": "4.2",
-    "developer": "Triternion"
-  },
-  {
-    "id": "79",
-    "title": "Chivalry 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?q=80&w=600&auto=format&fit=crop",
-    "category": "Action",
-    "downloadLink": "https://chivalry2.com/",
-    "description": "A multiplayer first-person slasher inspired by epic medieval movie battles. Players are thrust into the action.",
-    "ratings": "4.5",
-    "developer": "Torn Banner Studios"
-  },
-  {
-    "id": "80",
-    "title": "Total War: Warhammer III",
-    "coverPhoto": "https://images.unsplash.com/photo-1563089145-599997674d42?q=80&w=600&auto=format&fit=crop",
-    "category": "Strategy",
-    "downloadLink": "https://warhammer3.totalwar.com/",
-    "description": "The cataclysmic conclusion to the Total War: Warhammer trilogy. Rally your forces and step into the Realm of Chaos.",
-    "ratings": "4.3",
-    "developer": "Creative Assembly"
-  },
-  {
-    "id": "81",
-    "title": "Crusader Kings III",
-    "coverPhoto": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?q=80&w=600&auto=format&fit=crop",
-    "category": "Strategy",
-    "downloadLink": "https://www.crusaderkings.com/",
-    "description": "Paradox Development Studio brings you the sequel to one of the most popular strategy games ever made. Lead your historical dynasty.",
-    "ratings": "4.7",
-    "developer": "Paradox Development Studio"
-  },
-  {
-    "id": "82",
-    "title": "Stellaris",
-    "coverPhoto": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
-    "category": "Strategy",
-    "downloadLink": "https://www.stellaris.com/",
-    "description": "Get ready to explore, discover and interact with a multitude of species as you journey among the stars.",
-    "ratings": "4.5",
-    "developer": "Paradox Development Studio"
-  },
-  {
-    "id": "83",
-    "title": "Mount & Blade II: Bannerlord",
-    "coverPhoto": "https://images.unsplash.com/photo-1519074069444-1ba4e666440e?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG / Strategy",
-    "downloadLink": "https://www.taleworlds.com/en/Games/Bannerlord",
-    "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, and conquer an vast medieval continent.",
-    "ratings": "4.6",
-    "developer": "TaleWorlds Entertainment"
-  },
-  {
-    "id": "84",
-    "title": "The Witcher 2: Assassins of Kings",
-    "coverPhoto": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG",
-    "downloadLink": "https://www.thewitcher.com/",
-    "description": "A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence.",
-    "ratings": "4.4",
-    "developer": "CD Projekt Red"
-  },
-  {
-    "id": "85",
-    "title": "Divinity: Original Sin 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG",
-    "downloadLink": "https://larian.com/games/divinity-original-sin-2",
-    "description": "The eagerly anticipated sequel to the award-winning RPG. Gather your party. Master deep, tactical combat.",
-    "ratings": "4.8",
-    "developer": "Larian Studios"
-  },
-  {
-    "id": "86",
-    "title": "Disco Elysium",
-    "coverPhoto": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?q=80&w=600&auto=format&fit=crop",
-    "category": "RPG",
-    "downloadLink": "https://discoelysium.com/",
-    "description": "A groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city block.",
-    "ratings": "4.8",
-    "developer": "ZA/UM"
-  },
-  {
-    "id": "87",
-    "title": "Inscryption",
-    "coverPhoto": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=600&auto=format&fit=crop",
-    "category": "Card Battler",
-    "downloadLink": "https://www.inscryption.com/",
-    "description": "An inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror.",
-    "ratings": "4.8",
-    "developer": "Daniel Mullins Games"
-  },
-  {
-    "id": "88",
-    "title": "Loop Hero",
-    "coverPhoto": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop",
-    "category": "Roguelike",
-    "downloadLink": "https://loophero.com/",
-    "description": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos.",
-    "ratings": "4.5",
-    "developer": "Four Quarters"
-  },
-  {
-    "id": "89",
-    "title": "Vampire Survivors",
-    "coverPhoto": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=600&auto=format&fit=crop",
-    "category": "Action Roguelike",
-    "downloadLink": "https://poncle.games/",
-    "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game.",
-    "ratings": "4.8",
-    "developer": "poncle"
-  },
-  {
-    "id": "90",
-    "title": "Risk of Rain 2",
-    "coverPhoto": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
-    "category": "Action Roguelike",
-    "downloadLink": "https://www.riskofrain.com/",
-    "description": "Escape an alien planet by fighting through hordes of monsters, with your friends or on your own.",
-    "ratings": "4.7",
-    "developer": "Hopoo Games"
-  },
-  {
-    "id": "91",
-    "title": "Gunfire Reborn",
-    "coverPhoto": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop",
-    "category": "FPS / Roguelike",
-    "downloadLink": "https://gunfire.duoyi.com/",
-    "description": "An adventure level-based game featured with FPS, Roguelike and RPG. Players can control heroes with various abilities.",
-    "ratings": "4.5",
-    "developer": "Duoyi Games"
-  },
-  {
-    "id": "92",
-    "title": "Brawlhalla",
-    "coverPhoto": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://www.brawlhalla.com/",
-    "description": "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends.",
-    "ratings": "4.3",
-    "developer": "Blue Mammoth Games"
-  },
-  {
-    "id": "93",
-    "title": "Guilty Gear -Strive-",
-    "coverPhoto": "https://images.unsplash.com/photo-1534423861386-85a16f5d13fd?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://www.guiltygear.com/ggst/en/",
-    "description": "The fundamental mechanics have been overhauled to bring the cutting edge 2D/3D fighting game experience to high speed action.",
-    "ratings": "4.6",
-    "developer": "Arc System Works"
-  },
-  {
-    "id": "94",
-    "title": "Tekken 7",
-    "coverPhoto": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://tk7.tekken.com/",
-    "description": "Discover the epic conclusion of the Mishima clan and unravel the reasons behind each step of their ceaseless fight.",
-    "ratings": "4.5",
-    "developer": "BANDAI NAMCO Studios"
-  },
-  {
-    "id": "95",
-    "title": "Street Fighter V",
-    "coverPhoto": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://streetfighter.com/sfv/",
-    "description": "Experience the intensity of head-to-head combat with Street Fighter V! Choose from 16 iconic characters.",
-    "ratings": "4.1",
-    "developer": "Capcom"
-  },
-  {
-    "id": "96",
-    "title": "Mortal Kombat 11",
-    "coverPhoto": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://www.mortalkombat.com/",
-    "description": "MK is back and better than ever in the next evolution of the iconic franchise, giving custom character control.",
-    "ratings": "4.6",
-    "developer": "NetherRealm Studios"
-  },
-  {
-    "id": "97",
-    "title": "Dead or Alive 6",
-    "coverPhoto": "https://images.unsplash.com/photo-1612287230202-1bf1d85d1bdf?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://teamninja-studio.com/doa6/",
-    "description": "The long-awaited new installment of the Team Ninja hit high-speed fighting game series Dead or Alive.",
-    "ratings": "3.8",
-    "developer": "Team NINJA"
-  },
-  {
-    "id": "98",
-    "title": "Soulcalibur VI",
-    "coverPhoto": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://www.bandainamcoent.com/games/soulcalibur-vi",
-    "description": "Bring more than just your fists to the fight! Featuring all-new battle mechanics and stunning weapon combat.",
-    "ratings": "4.4",
-    "developer": "BANDAI NAMCO Studios"
-  },
-  {
-    "id": "99",
-    "title": "Dragon Ball FighterZ",
-    "coverPhoto": "https://images.unsplash.com/photo-1566241477600-ac026ad43874?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://www.bandainamcoent.com/games/dragon-ball-fighterz",
-    "description": "Born from what makes the Dragon Ball series so loved: endless spectacular fights with its all-powerful fighters.",
-    "ratings": "4.6",
-    "developer": "Arc System Works"
-  },
-  {
-    "id": "100",
-    "title": "MultiVersus",
-    "coverPhoto": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop",
-    "category": "Fighting",
-    "downloadLink": "https://multiversus.com/",
-    "description": "A free-to-play platform fighter that lets you team up with or against your friends using iconic Warner Bros characters.",
-    "ratings": "4.2",
-    "developer": "Player First Games"
   }
 ]
