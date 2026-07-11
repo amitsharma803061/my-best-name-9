@@ -2,8 +2,9 @@ import React from "react";
 import { FaStarHalfAlt } from "react-icons/fa";
 import { Link } from "react-router";
 
-const TopSixCard = ({ app }) => {
-  const { coverPhoto, title, ratings, id } = app;
+const AllGameCard = ({ game }) => {
+  const { title, coverPhoto, category, ratings, id } = game;
+
   return (
     <div className="card w-100 md:w-70 h-63 bg-gray-300 space-y-2 hover:scale-105 transition ease-in-out">
       <img
@@ -20,7 +21,7 @@ const TopSixCard = ({ app }) => {
       </div>
       <Link
         to={`/app/${id}`}
-        className=" btn text-white bg-[#5917b1] ml-2 me-2  "
+        className=" btn text-white bg-[#5917b1] ml-2 me-2"
       >
         View Details
       </Link>
@@ -28,4 +29,4 @@ const TopSixCard = ({ app }) => {
   );
 };
 
-export default TopSixCard;
+export default AllGameCard;

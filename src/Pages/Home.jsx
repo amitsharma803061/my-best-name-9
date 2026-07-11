@@ -1,21 +1,24 @@
 import { format } from "date-fns";
-import React, { use } from "react";
+import React from "react";
 import HomeCard from "./HomeCard";
 import MarqueeComponent from "react-fast-marquee";
 import TopSixCard from "./TopSixCard";
 import logo from "../assets/pnj.jpg";
+import useApps from "../Hooks/useApps";
 
-const dataPromise = fetch("/gamingData.json").then((res) => res.json());
+// const dataPromise = fetch("/gamingData.json").then((res) => res.json());
 
 const Home = () => {
-  const games = use(dataPromise);
+  // const games = use(dataPromise);
   const Marquee = MarqueeComponent.default || MarqueeComponent;
 
-  const { ratings } = games;
+  const { apps, loading, error } = useApps();
 
-  const threeGames = [...games].slice(0, 3);
+  const { ratings } = apps;
 
-  const topThreeGames = [...games]
+  const threeGames = [...apps].slice(0, 3);
+
+  const topThreeGames = [...apps]
     .sort((a, b) => b.ratings - a.ratings)
     .slice(0, 6);
 
@@ -28,7 +31,7 @@ const Home = () => {
         <p className="text-gray-300 text-sm md:text-lg font-bold mt-3">
           {format(new Date(), "EEEE, MMMM dd, yyyy")}
         </p>
-        <div className="w-11/12 mx-auto md:w-4/12 h-40 bg-[#072a41] mt-3">
+        <div className="w-11/12 mx-auto md:w-4/12 h-40 bg-[#072a41] mt-3 rounded-2xl">
           <Marquee>
             <div className="flex gap-20">
               {threeGames.map((game) => (
@@ -49,36 +52,23 @@ const Home = () => {
       </section>
 
       {/* <section>3.......</section> */}
-      {/* <div className="w-60 h-80 bg-[#360909] rounded-2xl ml-20">
+
+      <section className="w-11/12 mx-auto md:w-6/12 h-55 md:h-90 bg-gray-300 flex rounded-3xl gap-2 md:gap-5 mt-2">
+        <div className="">
           <img
             src={logo}
             alt=""
-            className="ml-5 mt-5 w-50 h-50  rounded-full "
+            className="w-40 h-40 md:w-70 md:h-70 rounded-full ml-3 md:ml-20 mt-3"
           />
-          <h2 className="text-sm font-bold text-white ml-17 mt-2">
-            Made BY @!
+          <h2 className="text-sm md:text-lg font-bold ml-10 md:ml-40 mt-1 md:mt-3">
+            Made By @!
           </h2>
         </div>
-        <div className="w-120 h-80 bg-[#2c0606] rounded-2xl">
-          <h2 className="text-white text-center pt-3">Apps details</h2>
-          <div>
-            <h2 className="text-white">{games.title}</h2>
-          </div>
-        </div> */}
-      <section className="w-6/12 mx-auto h-90 bg-gray-300 flex rounded-3xl gap-5 mt-3">
-        <div>
-          <img
-            src={logo}
-            alt=""
-            className="w-70 h-70 rounded-full ml-20 mt-3"
-          />
-          <h2 className="text-lg font-bold ml-40 mt-3">Made By @!</h2>
-        </div>
-        <div className="w-80 h-70 mt-10 ml-20 spacey-y-4">
-          <h2 className="text-4xl font-bold mt-3">
+        <div className="w-50 h-50 md:w-80 md:h-70 md:mt-10 ml-5 md:ml-20 spacey-y-1 md:space-y-4">
+          <h2 className="text-xl md:text-4xl font-bold mt-3 md:mt-0">
             Subscribe to our Newsletter!
           </h2>
-          <p className="text-lg text-black/60 font-bold mt-3">
+          <p className="text-xs md:text-lg text-black/60 font-bold mt-1 md:mt-3">
             Verified your gmail and subscribe to our newsletter
           </p>
 
@@ -86,9 +76,9 @@ const Home = () => {
             type="email"
             name="email"
             placeholder="example@email.com"
-            className="input input-bordered w-ful focus:outline-none focus:ring-4 focus:ring-blue-400 mt-3"
+            className="input input-bordered w-50 md:w-full focus:outline-none focus:ring-4 focus:ring-blue-400 mt-1 md:mt-3"
           />
-          <button className="btn w-full bg-blue-500 text-white mt-3">
+          <button className="btn w-50 md:w-full bg-blue-500 text-white mt-1 md:mt-3">
             Subscribe
           </button>
         </div>
