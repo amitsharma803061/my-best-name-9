@@ -4,7 +4,7 @@ import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
-    <div className="bg-[#350249]">
+    <div className="bg-[#270335]">
       <div className="navbar w-11/12 mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
@@ -60,9 +60,11 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <li>
-            <NavLink className={"btn btn-primary"}>Signin</NavLink>
-          </li>
+          <div>
+            <NavLink to={"/signin"} className={"btn btn-primary"}>
+              Signin
+            </NavLink>
+          </div>
         </div>
       </div>
     </div>
