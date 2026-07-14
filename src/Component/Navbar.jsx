@@ -35,9 +35,7 @@ const Navbar = () => {
               <li>
                 <NavLink to={"/apps"}>All_Apps</NavLink>
               </li>
-              <li>
-                <NavLink>Download_App</NavLink>
-              </li>
+              <li>{/* <NavLink>Download_App</NavLink> */}</li>
             </ul>
           </div>
           <h2>
@@ -55,9 +53,7 @@ const Navbar = () => {
               <li>
                 <NavLink to={"/apps"}>All_Apps</NavLink>
               </li>
-              <li>
-                <NavLink>Download_App</NavLink>
-              </li>
+              <li>{/* <NavLink>Download_App</NavLink> */}</li>
             </ul>
           </div>
           <div>

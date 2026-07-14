@@ -6,6 +6,7 @@ import ErrorPages from "../Pages/ErrorPages";
 import All_Apps from "../Pages/All_Apps";
 import AppsDetails from "../Pages/AppsDetails";
 import Signin from "../Pages/Signin";
+import Signup from "../Pages/Signup";
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: "/signin",
         Component: Signin,
+      },
+      {
+        path: "/signup",
+        Component: Signup,
       },
     ],
   },
